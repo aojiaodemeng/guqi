@@ -4,7 +4,7 @@
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "东莞市火伊针织服饰有限公司 成立于2013年，是一家集生产、设计、贴牌加工为主的民营企业，承接国内 外各大客户订单。工厂位于广东省东莞市大朗镇。占地面积3000平方米，生产员工110人，月产量8到10万件。我司生产技术实力雄厚，拥有技术精湛的专业队伍。并根据不同客商的要求开发新纱线，进行多项测式，同时按排配合设计，打样供客户参考。我们一直追求专业化发展道路，始终秉持“质量第一，诚实守信，客户至上，开拓创新求发展”的运营方针，以优质的产品，一流的服务，热忱的欢迎各界朋友团结合作，共创辉煌。",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -152,33 +152,33 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "广东省东莞市大朗镇沙步头街36号A座",
+    "phone": "131 7245 5365（朱生）",
+    "email": "415683873@QQ.COM",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
     {
+      "icon": "fa fa-group",
+      "title": "生产信息",
+      "text": "100%羊绒、100%羊毛、100%棉纱、棉羊毛、羊毛混纺、弹力棉、等等"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "加工方式",
+      "text": "FOB、CMT单"
+    },
+    {
       "icon": "fa fa-comments-o",
       "title": "Lorem ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "交货期",
+      "text": "第一张单为所有样办确认OK后45天至60天，返单交期15天，具体时间视情况而定"
     }
   ]
 }
