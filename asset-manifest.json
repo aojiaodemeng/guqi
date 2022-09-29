@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/guqi/static/css/main.83b5dced.chunk.css",
-    "main.js": "/guqi/static/js/main.c8811742.chunk.js",
-    "main.js.map": "/guqi/static/js/main.c8811742.chunk.js.map",
+    "main.css": "/guqi/static/css/main.46e94ea1.chunk.css",
+    "main.js": "/guqi/static/js/main.280ace1a.chunk.js",
+    "main.js.map": "/guqi/static/js/main.280ace1a.chunk.js.map",
     "runtime-main.js": "/guqi/static/js/runtime-main.9b8bc8be.js",
     "runtime-main.js.map": "/guqi/static/js/runtime-main.9b8bc8be.js.map",
-    "static/js/2.f0742ee7.chunk.js": "/guqi/static/js/2.f0742ee7.chunk.js",
-    "static/js/2.f0742ee7.chunk.js.map": "/guqi/static/js/2.f0742ee7.chunk.js.map",
+    "static/css/2.64da0b2c.chunk.css": "/guqi/static/css/2.64da0b2c.chunk.css",
+    "static/js/2.300351bf.chunk.js": "/guqi/static/js/2.300351bf.chunk.js",
+    "static/js/2.300351bf.chunk.js.map": "/guqi/static/js/2.300351bf.chunk.js.map",
     "index.html": "/guqi/index.html",
-    "static/css/main.83b5dced.chunk.css.map": "/guqi/static/css/main.83b5dced.chunk.css.map",
-    "static/js/2.f0742ee7.chunk.js.LICENSE.txt": "/guqi/static/js/2.f0742ee7.chunk.js.LICENSE.txt"
+    "static/css/2.64da0b2c.chunk.css.map": "/guqi/static/css/2.64da0b2c.chunk.css.map",
+    "static/css/main.46e94ea1.chunk.css.map": "/guqi/static/css/main.46e94ea1.chunk.css.map",
+    "static/js/2.300351bf.chunk.js.LICENSE.txt": "/guqi/static/js/2.300351bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9b8bc8be.js",
-    "static/js/2.f0742ee7.chunk.js",
-    "static/css/main.83b5dced.chunk.css",
-    "static/js/main.c8811742.chunk.js"
+    "static/css/2.64da0b2c.chunk.css",
+    "static/js/2.300351bf.chunk.js",
+    "static/css/main.46e94ea1.chunk.css",
+    "static/js/main.280ace1a.chunk.js"
   ]
 }
