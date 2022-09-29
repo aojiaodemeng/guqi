@@ -25,31 +25,32 @@ export const Navigation = (props) => {
           id='bs-example-navbar-collapse-1'
         >
           <ul className='nav navbar-nav navbar-right'>
-            <li>
-              <a href='#features' className='page-scroll'>
-                主页
-              </a>
-            </li>
+
             <li>
               <a href='#about' className='page-scroll'>
                 关于我们
               </a>
             </li>
             <li>
+              <a href='#features' className='page-scroll'>
+                合作
+              </a>
+            </li>
+            {/* <li>
               <a href='#services' className='page-scroll'>
                 服务
               </a>
-            </li>
+            </li> */}
             <li>
               <a href='#portfolio' className='page-scroll'>
                 产品
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href='#testimonials' className='page-scroll'>
                 客户评价
               </a>
-            </li>
+            </li> */}
             <li>
               <a href='#team' className='page-scroll'>
                 合作品牌

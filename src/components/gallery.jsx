@@ -5,17 +5,16 @@ export const Gallery = (props) => {
     <div id='portfolio' className='text-center'>
       <div className='container'>
         <div className='section-title'>
-          <h2>产品示例</h2>
+          <h2>服装示例</h2>
           <p>
-            Lsorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            随意穿搭，自由舒适
           </p>
         </div>
         <div className='row'>
           <div className='portfolio-items'>
             {props.data
               ? props.data.map((d, i) => (
-                <div key={`${d.title}-${i}`} className='col-sm-6 col-md-4 col-lg-4'>
+                <div key={`${d.title}-${i}`} className='col-sm-6 col-md-4 col-lg-3'>
                   <Image title={d.title} largeImage={d.largeImage} smallImage={d.smallImage} />
                 </div>
               ))

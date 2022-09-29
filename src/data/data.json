@@ -1,10 +1,11 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "至情至性，热爱生活",
+    "paragraph": "在独特的设计和细腻的质感间寻求平衡"
   },
   "About": {
-    "paragraph": "东莞市火伊针织服饰有限公司 成立于2013年，是一家集生产、设计、贴牌加工为主的民营企业，承接国内 外各大客户订单。工厂位于广东省东莞市大朗镇。占地面积3000平方米，生产员工110人，月产量8到10万件。我司生产技术实力雄厚，拥有技术精湛的专业队伍。并根据不同客商的要求开发新纱线，进行多项测式，同时按排配合设计，打样供客户参考。我们一直追求专业化发展道路，始终秉持“质量第一，诚实守信，客户至上，开拓创新求发展”的运营方针，以优质的产品，一流的服务，热忱的欢迎各界朋友团结合作，共创辉煌。",
+    "paragraph": "东莞市火伊针织服饰有限公司 成立于2013年，是一家集生产、设计、贴牌加工为主的民营企业，承接国内 外各大客户订单。工厂位于广东省东莞市大朗镇。占地面积3000平方米，生产员工110人，月产量8到10万件。我司生产技术实力雄厚，拥有技术精湛的专业队伍。并根据不同客商的要求开发新纱线，进行多项测式，同时按排配合设计，打样供客户参考。",
+    "paragraph2": "我们一直追求专业化发展道路，始终秉持“质量第一，诚实守信，客户至上，开拓创新求发展”的运营方针，以优质的产品，一流的服务，热忱的欢迎各界朋友团结合作，共创辉煌。",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -18,12 +19,69 @@
       "Lorem ipsum dolor"
     ]
   },
-  "Gallery": [
+  "Clothes": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Ribbed-knit wrap midi dress",
+      "largeImage": "img/clothes/1.jpeg",
+      "smallImage": "img/clothes/1.jpeg"
     },
+    {
+      "title": "Cutout-front contrast-button cardigan",
+      "largeImage": "img/clothes/2.jpeg",
+      "smallImage": "img/clothes/2.jpeg"
+    },
+    {
+      "title": "Bustier midi dress",
+      "largeImage": "img/clothes/3.jpeg",
+      "smallImage": "img/clothes/3.jpeg"
+    },
+    {
+      "title": "Slim-waist gold-button blazer dress",
+      "largeImage": "img/clothes/4.jpeg",
+      "smallImage": "img/clothes/4.jpeg"
+    },
+    {
+      "title": "Halterneck jersey top",
+      "largeImage": "img/clothes/5.jpeg",
+      "smallImage": "img/clothes/5.jpeg"
+    },
+    {
+      "title": "Double-breasted midi wool coat",
+      "largeImage": "img/clothes/6.jpeg",
+      "smallImage": "img/clothes/6.jpeg"
+    },
+    {
+      "title": "Bow-detailed knitted cardigan",
+      "largeImage": "img/clothes/7.jpeg",
+      "smallImage": "img/clothes/7.jpeg"
+    },
+    {
+      "title": "Contrast-detail jersey pants",
+      "largeImage": "img/clothes/8.webp",
+      "smallImage": "img/clothes/8.webp"
+    },
+    {
+      "title": "Corset-waist mini dress",
+      "largeImage": "img/clothes/9.jpeg",
+      "smallImage": "img/clothes/9.jpeg"
+    },
+    {
+      "title": "Ruffled mini dress with sash",
+      "largeImage": "img/clothes/10.jpeg",
+      "smallImage": "img/clothes/10.jpeg"
+    },
+    {
+      "title": "Oversized plisse shirt",
+      "largeImage": "img/clothes/11.jpeg",
+      "smallImage": "img/clothes/11.jpeg"
+    },
+    {
+      "title": "Ruffled mini dress with sash",
+      "largeImage": "img/clothes/12.jpeg",
+      "smallImage": "img/clothes/12.jpeg"
+    }
+  ],
+  "Gallery": [
     {
       "title": "Project Title",
       "largeImage": "img/portfolio/02-large.jpg",
@@ -129,6 +187,44 @@
       "name": "Johnathan Doe"
     }
   ],
+  "Company": [
+    {
+      "img": "img/compony/1.jpeg",
+      "name": "1"
+    },
+    {
+      "img": "img/compony/2.jpeg",
+      "name": "2"
+    },
+    {
+      "img": "img/compony/3.webp",
+      "name": "3"
+    },
+    {
+      "img": "img/compony/4.jpeg",
+      "name": "4"
+    },
+    {
+      "img": "img/compony/5.webp",
+      "name": "1"
+    },
+    {
+      "img": "img/compony/6.webp",
+      "name": "1"
+    },
+    {
+      "img": "img/compony/7.jpeg",
+      "name": "1"
+    },
+    {
+      "img": "img/compony/8.jpeg",
+      "name": "1"
+    },
+    {
+      "img": "img/compony/9.jpeg",
+      "name": "1"
+    }
+  ],
   "Team": [
     {
       "img": "img/team/01.jpg",
@@ -161,7 +257,7 @@
   },
   "Features": [
     {
-      "icon": "fa fa-group",
+      "icon": "fa fa-heart-o",
       "title": "生产信息",
       "text": "100%羊绒、100%羊毛、100%棉纱、棉羊毛、羊毛混纺、弹力棉、等等"
     },
@@ -171,14 +267,14 @@
       "text": "FOB、CMT单"
     },
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
       "icon": "fa fa-magic",
       "title": "交货期",
       "text": "第一张单为所有样办确认OK后45天至60天，返单交期15天，具体时间视情况而定"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "承接业务",
+      "text": "承接并生产各类针织毛衣，包括：5G、7G、12、14G等，电脑机提花、印花、订珠、件染、 手工、绣花、针梳织拼接等各种特殊工艺产品"
     }
   ]
 }

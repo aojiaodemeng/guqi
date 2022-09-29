@@ -1,17 +1,32 @@
+import { Carousel } from 'antd';
 export const About = (props) => {
+  const contentStyle = {
+    height: '360px',
+    color: '#fff',
+    // lineHeight: '160px',
+    textAlign: 'center',
+    // background: '#364d79',
+    position: 'relative'
+
+  };
+  const titleStyle = {
+    zIndex: 100,
+    position: 'absolute',
+    top: '20px',
+    right: '50px',
+
+  }
   return (
     <div id="about">
       <div className="container">
         <div className="row">
-          <div className="col-xs-12 col-md-6">
-            {" "}
-            <img src="img/about.jpg" className="img-responsive" alt="" />{" "}
-          </div>
+
           <div className="col-xs-12 col-md-6">
             <div className="about-text">
               <h2>关于我们</h2>
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
-              <h3>为什么选择我们?</h3>
+              <p>{props.data?.paragraph2}</p>
+              {/* <h3>为什么选择我们?</h3>
               <div className="list-style">
                 <div className="col-lg-6 col-sm-6 col-xs-12">
                   <ul>
@@ -31,8 +46,35 @@ export const About = (props) => {
                       : "loading"}
                   </ul>
                 </div>
-              </div>
+              </div> */}
             </div>
+          </div>
+          <div className="col-xs-12 col-md-6">
+            <Carousel dotPosition="left" autoplay>
+              <div>
+                <h3 style={contentStyle}>
+                  <div style={titleStyle}>车间1</div>
+                  <img src="img/about.jpg" className="img-responsive" alt="" />
+                </h3>
+              </div>
+              <div>
+                <h3 style={contentStyle}>
+                  <img src="img/about.jpg" className="img-responsive" alt="" />
+                </h3>
+              </div>
+              <div>
+                <h3 style={contentStyle}>
+                  <img src="img/about.jpg" className="img-responsive" alt="" />
+                </h3>
+              </div>
+              <div>
+                <h3 style={contentStyle}>
+                  <img src="img/about.jpg" className="img-responsive" alt="" />
+                </h3>
+              </div>
+            </Carousel>
+            {/* {" "} */}
+            {/* <img src="img/about.jpg" className="img-responsive" alt="" />{" "} */}
           </div>
         </div>
       </div>
