@@ -56,7 +56,7 @@ export const About = (props) => {
             </div>
           </div>
           <div className="col-xs-12 col-md-6">
-            <Carousel dotPosition="left">
+            <Carousel dotPosition="left" autoplay>
               <div>
                 <div style={contentStyle}>
                   <img src="img/location/1.jpeg" className="img-responsive" alt="" />
