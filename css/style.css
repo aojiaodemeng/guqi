@@ -286,6 +286,7 @@ header .intro-text {
 #features {
   background: #f6f6f6;
   padding: 50px 0;
+
 }
 
 #features i.fa {
@@ -304,6 +305,7 @@ header .intro-text {
 /* About Section */
 #about {
   padding: 100px 0;
+  /* margin-bottom: 80px; */
 }
 
 #about h3 {
@@ -702,6 +704,6 @@ label {
 
 @media (max-width: 768px) {
   #about img {
-    margin: 50px 0;
+    /* margin: 50px 0; */
   }
 }
