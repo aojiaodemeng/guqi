@@ -1,7 +1,7 @@
 {
   "name": "landingpage-react-template",
   "private": true,
-  "homepage": "https://aojiaodemeng.github.io/guqi/",
+  "homepage": "./",
   "dependencies": {
     "@chakra-ui/react": "^2.3.4",
     "@emotion/react": "^11.10.4",
@@ -12,6 +12,7 @@
     "antd": "^4.23.3",
     "emailjs-com": "^2.6.4",
     "framer-motion": "^7.4.0",
+    "gh-pages": "^4.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "^4.0.2",
