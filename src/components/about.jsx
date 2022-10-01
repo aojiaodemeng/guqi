@@ -3,7 +3,6 @@ export const About = (props) => {
   const contentStyle = {
     height: '358px',
     color: '#fff',
-    borderRadius: 8,
     // lineHeight: '160px',
     textAlign: 'center',
     // background: '#364d79',
