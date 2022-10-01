@@ -58,8 +58,9 @@ export const About = (props) => {
             <Carousel dotPosition="left" autoplay>
               <div>
                 <div style={contentStyle}>
+                  <div style={titleStyle}>展厅</div>
                   <img src="img/location/1.jpeg" className="img-responsive" alt="" />
-                  <div style={titleStyle}>电脑机车间</div>
+
                 </div>
               </div>
 
@@ -72,13 +73,14 @@ export const About = (props) => {
 
               <div>
                 <div style={contentStyle}>
-                  <div style={titleStyle}>缝盘车间</div>
+                  <div style={titleStyle}>电脑机车间</div>
                   <img src="img/location/3.jpeg" className="img-responsive" alt="" />
                 </div>
               </div>
 
               <div>
                 <div style={contentStyle}>
+                  <div style={titleStyle}>缝盘车间</div>
                   <img src="img/location/4.jpeg" className="img-responsive" alt="" />
                 </div>
               </div>

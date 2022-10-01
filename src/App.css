@@ -4,8 +4,14 @@
   #features {
     padding: 20px;
     width: 111%;
+    padding-bottom: 65px;
   }
 
+  #about {
+    padding-bottom: 0 !important;
+  }
+
+  #header,
   #about,
   #services,
   #testimonials,
